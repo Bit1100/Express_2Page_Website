@@ -1,7 +1,5 @@
 # Express_2Page_Website
 
-# Secure_Login_System_ExpressApp
-
 This is the project where you can learn how to create basic express website using various npm packages and concepts. This project is for beginners who know at least basics of express, middlewares, handlebars and mongoose.
 
 Packages Involved:
